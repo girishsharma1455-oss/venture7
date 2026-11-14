@@ -1,0 +1,99 @@
+{
+  "downloaded": [],
+  "replacements": [
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Data-Migration.png",
+      "replacement": "/assets/uploads/2025/07/08100416/Data-Migration.webp"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2025/07/healthtech-1.webp",
+      "replacement": "/assets/uploads/2025/07/08100419/healthtech.webp"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2025/07/Gas-Industry.webp",
+      "replacement": "/assets/uploads/2025/01/08100432/Medical-Gas.webp"
+    }
+  ],
+  "iconReplacements": [
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Requirement-Gathering.png",
+      "icon": "ClipboardList"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Solution-Designing.png",
+      "icon": "PencilRuler"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Configuration-Customization.png",
+      "icon": "Settings2"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Integration-with-Existing-Systems.png",
+      "icon": "Workflow"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/User-Training-Support.png",
+      "icon": "GraduationCap"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Experienced-Team.png",
+      "icon": "Users"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Custom-Solutions.png",
+      "icon": "Puzzle"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Scalable-Implementations.png",
+      "icon": "Expand"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Dedicated-SPOC.png",
+      "icon": "UserRoundCheck"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Future-Ready-Solutions.png",
+      "icon": "Rocket"
+    },
+    {
+      "file": "src\\app\\salesforce-implementation\\page.tsx",
+      "original": "/assets/uploads/2024/09/Transparent-Process.png",
+      "icon": "Eye"
+    }
+  ],
+  "removedDuplicateSources": [
+    {
+      "file": "src\\app\\mobile-application-automation\\page.tsx",
+      "original": "/assets/theme/images/mobileautomation/mobile_automation.ogg",
+      "reason": "The video already supplies its available MP4 source."
+    }
+  ],
+  "removedUnavailableDecorations": [
+    {
+      "file": "src\\app\\devops\\page.tsx",
+      "original": "/assets/theme/images/devOps/icondevops.png"
+    },
+    {
+      "file": "src\\app\\uipath\\page.tsx",
+      "original": "/assets/uploads/2024/08/bg-removebg-preview.png"
+    }
+  ],
+  "unresolvedImages": [],
+  "unresolvedLinks": [],
+  "unresolvedFonts": [],
+  "scannedFiles": 362,
+  "changedFiles": 86
+}

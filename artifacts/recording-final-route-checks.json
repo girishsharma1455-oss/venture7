@@ -1,0 +1,16 @@
+[
+  {
+    "route": "/",
+    "status": 200,
+    "animation": true
+  },
+  {
+    "route": "/saas-apps-using-laravel/",
+    "status": 200
+  },
+  {
+    "route": "/sitemap/",
+    "status": 200,
+    "uppercaseLink": false
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "cards": [
+    {
+      "height": 125,
+      "nodeLeft": "-30px",
+      "nodeWidth": "30px",
+      "textInset": "15px",
+      "width": 790,
+      "x": 303.5
+    },
+    {
+      "height": 125,
+      "nodeLeft": "-30px",
+      "nodeWidth": "30px",
+      "textInset": "15px",
+      "width": 700,
+      "x": 446.09375
+    },
+    {
+      "height": 125,
+      "nodeLeft": "-30px",
+      "nodeWidth": "30px",
+      "textInset": "15px",
+      "width": 644,
+      "x": 501
+    },
+    {
+      "height": 125,
+      "nodeLeft": "-30px",
+      "nodeWidth": "30px",
+      "textInset": "15px",
+      "width": 700,
+      "x": 446.09375
+    },
+    {
+      "height": 125,
+      "nodeLeft": "-30px",
+      "nodeWidth": "30px",
+      "textInset": "15px",
+      "width": 790,
+      "x": 303.5
+    }
+  ],
+  "centers": [
+    {
+      "x": 219.5,
+      "y": 472.8229370117187
+    },
+    {
+      "x": 219.5,
+      "y": 472.8229370117187
+    },
+    {
+      "x": 219.5,
+      "y": 472.8229370117187
+    }
+  ],
+  "viewport": [
+    1339,
+    1000
+  ]
+}

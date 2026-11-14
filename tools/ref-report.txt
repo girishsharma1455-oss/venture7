@@ -1,0 +1,54 @@
+
+==== wp-content/plugins ====
+app\about-us\page.tsx :: g=\"close-button\" aria-label=\"Close\"> <img loading=\"lazy\" src=\"/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg\" alt=\"\"> </button> <div class=\"cky-notice\"> <p class=\"cky-title\" role=\"headi
+app\agentic-ai\page.tsx :: g=\"close-button\" aria-label=\"Close\"> <img loading=\"lazy\" src=\"/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg\" alt=\"\"> </button> <div class=\"cky-notice\"> <p class=\"cky-title\" role=\"headi
+app\agentops\page.tsx :: g=\"close-button\" aria-label=\"Close\"> <img loading=\"lazy\" src=\"/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg\" alt=\"\"> </button> <div class=\"cky-notice\"> <p class=\"cky-title\" role=\"headi
+
+==== wp-content/themes ====
+app\about-us\page.tsx :: "success-round wow pulse"> <img loading="lazy" decoding="async" src="/wp-content/themes/venture7/images/v-logo_new.png" alt="Venture7<sup>®</sup> Call to action Logo" /></div><div className="call_action_inner call_action
+app\agentic-ai\page.tsx :: <img loading="lazy" decoding="async" className="d-flex ml-auto" src="/wp-content/themes/venture7/images/webinar/technology.jpg" alt="technology" /></div></div></div></section></div></div></article></main><footer id="colo
+app\agentops\page.tsx :: idget_type="html.default"> <img loading="lazy" decoding="async" src="/wp-content/themes/venture7/images/laravel/2.png " alt className="anim3" /> <img loading="lazy" decoding="async" src="/wp-content/themes/venture7/image
+
+==== wp-content/uploads ====
+app\about-us\page.tsx :: mg loading="lazy" fetchpriority="high" width="413" height="127" src="/wp-content/uploads/2025/04/08100422/logo_venture7_new.webp" className="attachment-full size-full wp-image-14187" alt srcSet="/wp-content/uploads/2025/
+app\agentic-ai\page.tsx :: mg loading="lazy" fetchpriority="high" width="413" height="127" src="/wp-content/uploads/2025/04/08100422/logo_venture7_new.webp" className="attachment-full size-full wp-image-14187" alt srcSet="/wp-content/uploads/2025/
+app\agentops\page.tsx :: mg loading="lazy" fetchpriority="high" width="413" height="127" src="/wp-content/uploads/2025/04/08100422/logo_venture7_new.webp" className="attachment-full size-full wp-image-14187" alt srcSet="/wp-content/uploads/2025/
+
+==== wp-content/cache ====
+app\about-us\page.tsx :: .js?ver=1794491412" suppressHydrationWarning />         <script src="/wp-content/cache/breeze-minification/js/breeze_about-us-1-40-js-dist-i18n.min-8a672a7b3338.js?ver=1794491412" suppressHydrationWarning />         <scr
+app\agentic-ai\page.tsx :: .js?ver=1794490602" suppressHydrationWarning />         <script src="/wp-content/cache/breeze-minification/js/breeze_agentic-ai-1-10402-js-dist-i18n.min-8a672a7b3338.js?ver=1794490602" suppressHydrationWarning />        
+app\agentops\page.tsx :: .js?ver=1794490608" suppressHydrationWarning />         <script src="/wp-content/cache/breeze-minification/js/breeze_agentops-1-16386-js-dist-i18n.min-8a672a7b3338.js?ver=1794490608" suppressHydrationWarning />         <
+
+==== /_ext/cdn.jsdelivr ====
+app\about-us\page.tsx :: imer-js-js-extra" }} suppressHydrationWarning />         <script src="/_ext/cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" suppressHydrationWarning />         <script dangerouslySetInnerHTML={{ __h
+app\agentic-ai\page.tsx :: imer-js-js-extra" }} suppressHydrationWarning />         <script src="/_ext/cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" suppressHydrationWarning />         <script dangerouslySetInnerHTML={{ __h
+app\agentops\page.tsx :: imer-js-js-extra" }} suppressHydrationWarning />         <script src="/_ext/cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" suppressHydrationWarning />         <script dangerouslySetInnerHTML={{ __h
+
+==== /_ext/cdnjs ====
+app\layout.tsx :: the WordPress theme serves (order matters). const DESIGN_SHEET = [   '/_ext/cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css?ver=7.1.4',   '/_ext/cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.m
+
+==== /_ext/fonts ====
+app\layout.tsx :: pplication/Frontend/Assets/dist/smartslider.min.css?ver=1c12b24c',   '/_ext/fonts.googleapis.com/css__dc02073b.css',   '/wp-content/cache/breeze-minification/css/breeze_www-venture7-com-1-13800-20e330ae7a0e.css?ver=17944
+
+==== custom-style.css ====
+
+==== venture7/style.css ====
+
+==== smartslider ====
+app\layout.tsx :: s/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=1c12b24c',   '/_ext/fonts.googleapis.com/css__dc02073b.css',   '/wp-content/cache/breeze-minification/css/breeze_www-venture7-
+app\page.tsx :: ="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="smartslider.default"><div className="elementor-widget-container"><div className="n2-section-smartslider fitvidsignore  n2_clear" data-ssid="3"><div id
+
+==== wp-includes ====
+app\about-us\page.tsx :: t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});\n//# sourceURL=/wp-includes/js/wp-emoji-loader.min.js" }} suppressHydrationWarning />         <script dangerouslySetInnerHTML={{ __html: "window.addEventListener(\"DO
+app\agentic-ai\page.tsx :: t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});\n//# sourceURL=/wp-includes/js/wp-emoji-loader.min.js" }} suppressHydrationWarning />         <script dangerouslySetInnerHTML={{ __html: "window.addEventListener(\"DO
+app\agentops\page.tsx :: t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});\n//# sourceURL=/wp-includes/js/wp-emoji-loader.min.js" }} suppressHydrationWarning />         <script dangerouslySetInnerHTML={{ __html: "window.addEventListener(\"DO
+
+==== wp-admin ====
+app\about-us\page.tsx :: r gpls_wpsctr_simple_countdown_timer_localized_data = {\"ajaxUrl\":\"/wp-admin/admin-ajax.php\",\"prefix\":\"gpls-wpsctr-simple-countdown-timer\",\"classes_prefix\":\"gpls-wpsctr\",\"labels\":{\"flipDownHeading\":{\"days
+app\agentic-ai\page.tsx :: r gpls_wpsctr_simple_countdown_timer_localized_data = {\"ajaxUrl\":\"/wp-admin/admin-ajax.php\",\"prefix\":\"gpls-wpsctr-simple-countdown-timer\",\"classes_prefix\":\"gpls-wpsctr\",\"labels\":{\"flipDownHeading\":{\"days
+app\agentops\page.tsx :: r gpls_wpsctr_simple_countdown_timer_localized_data = {\"ajaxUrl\":\"/wp-admin/admin-ajax.php\",\"prefix\":\"gpls-wpsctr-simple-countdown-timer\",\"classes_prefix\":\"gpls-wpsctr\",\"labels\":{\"flipDownHeading\":{\"days
+
+==== www.venture7.com ====
+app\about-us\page.tsx :: :true,\"e_pro_interactions\":true},\"urls\":{\"assets\":\"https:\\/\\/www.venture7.com\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/www.venture7.com\\/wp-admin\\/admin-ajax.php\",\"uploadUrl
+app\agentic-ai\page.tsx :: :true,\"e_pro_interactions\":true},\"urls\":{\"assets\":\"https:\\/\\/www.venture7.com\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/www.venture7.com\\/wp-admin\\/admin-ajax.php\",\"uploadUrl
+app\agentops\page.tsx :: :true,\"e_pro_interactions\":true},\"urls\":{\"assets\":\"https:\\/\\/www.venture7.com\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/www.venture7.com\\/wp-admin\\/admin-ajax.php\",\"uploadUrl

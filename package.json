@@ -1,0 +1,35 @@
+{
+  "name": "venture7-v8",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Venture7.com re-implemented in React + TypeScript (no WordPress) — pixel-matched against the live site",
+  "scripts": {
+    "dev": "next dev -p 12000 -H 127.0.0.1",
+    "build": "next build",
+    "start": "next start -p 4321",
+    "gen": "node tools/rebuild-tailwind.mjs",
+    "typecheck": "tsc --noEmit",
+    "predev": "node tools/compile-tailwind.mjs",
+    "prebuild": "node tools/compile-tailwind.mjs",
+    "audit:source": "node tools/verify-source.mjs"
+  },
+  "dependencies": {
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.6.2",
+    "cheerio": "^1.2.0",
+    "htmltojsx": "^0.3.0",
+    "lucide-react": "^1.72.0",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2"
+  }
+}

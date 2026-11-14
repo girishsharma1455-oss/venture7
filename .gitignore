@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.generated/
+.recreation-backup/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+artifacts/*
+!artifacts/*.json
+!artifacts/*.xml
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,30 @@
+[
+  {
+    "original": "/wp-content/themes/venture7/fonts/icomoon.eot?117zh4",
+    "replacement": "/assets/theme/fonts/icomoon.eot?117zh4"
+  },
+  {
+    "original": "/wp-content/themes/venture7/fonts/icomoon.eot?117zh4#iefix",
+    "replacement": "/assets/theme/fonts/icomoon.eot?117zh4#iefix"
+  },
+  {
+    "original": "/wp-content/themes/venture7/fonts/icomoon.svg?117zh4#icomoon",
+    "replacement": "/assets/theme/fonts/icomoon.svg?117zh4#icomoon"
+  },
+  {
+    "original": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf",
+    "replacement": "/assets/fonts/google/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf"
+  },
+  {
+    "original": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+    "replacement": "/assets/fonts/google/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf"
+  },
+  {
+    "original": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf",
+    "replacement": "/assets/fonts/google/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf"
+  },
+  {
+    "original": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf",
+    "replacement": "/assets/fonts/google/pxiEyp8kv8JHgFVrJJfedw.ttf"
+  }
+]

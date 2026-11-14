@@ -1,0 +1,2908 @@
+{
+  "total": 356,
+  "passed": 355,
+  "failures": [
+    {
+      "route": "/saas-apps-using-laravel/",
+      "failure": true,
+      "error": "TypeError: fetch failed"
+    }
+  ],
+  "redirects": [
+    {
+      "route": "/category/blog/rpa/",
+      "destination": "/category/rpa/",
+      "status": 308,
+      "location": "/category/rpa/"
+    },
+    {
+      "route": "/category/blog/product-engineering/",
+      "destination": "/category/product-engineering/",
+      "status": 308,
+      "location": "/category/product-engineering/"
+    },
+    {
+      "route": "/category/blog/data-tandem/",
+      "destination": "/category/data-tandem/",
+      "status": 308,
+      "location": "/category/data-tandem/"
+    },
+    {
+      "route": "/category/blog/quality-ascent/",
+      "destination": "/category/quality-ascent/",
+      "status": 308,
+      "location": "/category/quality-ascent/"
+    },
+    {
+      "route": "/category/blog/ai-blog/",
+      "destination": "/category/ai-blog/",
+      "status": 308,
+      "location": "/category/ai-blog/"
+    },
+    {
+      "route": "/what-role-does-data-analytics-play-in-the-software-testing-process/",
+      "destination": "/blog/what-role-does-data-analytics-play-in-the-software-testing-process/",
+      "status": 308,
+      "location": "/blog/what-role-does-data-analytics-play-in-the-software-testing-process/"
+    },
+    {
+      "route": "/demo/hotel-bot-demo/",
+      "destination": "/hotel-bot-demo/",
+      "status": 308,
+      "location": "/hotel-bot-demo/"
+    },
+    {
+      "route": "/blog/best-ai-development-services/",
+      "destination": "/blog/best-ai-development-solution-guide/",
+      "status": 308,
+      "location": "/blog/best-ai-development-solution-guide/"
+    }
+  ],
+  "routes": [
+    {
+      "route": "/ai-solution-demo/",
+      "status": 200,
+      "title": "AI Solution Demo to Transform Your Business | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/about-us/",
+      "status": 200,
+      "title": "Get to Know Us - About Venture7® and Our Mission",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/agentic-ai/",
+      "status": 200,
+      "title": "Agentic AI Development Services & Solutions Company | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/agentops/",
+      "status": 200,
+      "title": "AgentOps Services & AI Agent Management Solutions | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "title": "AI Business Transformation | AI Consulting Services – Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/ai-development-services/",
+      "status": 200,
+      "title": "AI Development Services & Custom AI Solutions Company | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/assessment/ai-readiness/",
+      "status": 200,
+      "title": "Ai Readiness",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/api-testing/",
+      "status": 200,
+      "title": "Automated API Testing Services | Fast, Secure & Scalable – Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/10-benefits-of-artificial-intelligence-in-healthcare/",
+      "status": 200,
+      "title": "10 Benefits of Artificial Intelligence in Healthcare - Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/automated-functional-testing/",
+      "status": 200,
+      "title": "Automated Functional Testing",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/",
+      "status": 200,
+      "title": "Blog Listing",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/10-devops-use-cases-and-real-life-applications/",
+      "status": 200,
+      "title": "10 DevOps Use Cases and Real-life applications |",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/10-ways-how-blockchain-is-reviving-healthcare/",
+      "status": 200,
+      "title": "10 Ways How Blockchain Is Reviving Healthcare",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/a-journey-in-community-building-a-case-study/",
+      "status": 200,
+      "title": "A Journey in Community Building: A Case Study",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/7-vital-psychological-components-of-a-healthcare-app-that-work-plus-examples/",
+      "status": 200,
+      "title": "7 Vital Psychological Components of a Healthcare App that work",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/agentic-ai-modern-healthcare/",
+      "status": 200,
+      "title": "Agentic AI: The Next Frontier in Modern Healthcare Automation",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/agentic-ai-vs-generative-ai-vs-ai-agents-key-differences/",
+      "status": 200,
+      "title": "Agentic AI vs Generative AI vs AI Agents: Key Differences",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-agent-development/",
+      "status": 200,
+      "title": "AI Agent Development: The Complete Guide to Building Smart, Autonomous Systems That Drive ROI",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-benefits-and-challenges-in-healthcare/",
+      "status": 200,
+      "title": "AI benefits and challenges in Healthcare - Venture7",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-contextual-governance-solution/",
+      "status": 200,
+      "title": "AI Contextual Governance Solution: Build Safe & Scalable AI Systems",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-development-business-goals-blueprint/",
+      "status": 200,
+      "title": "A Strategic Blueprint for Aligning Business Goals with AI Development",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-development-company-readiness-signs/",
+      "status": 200,
+      "title": "Is Your Business AI-Ready? 7 Signs You Need an AI Partner",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-first-organization-scalable-ai-solutions/",
+      "status": 200,
+      "title": "Complete Guide to Building an AI-First Organization with Scalable AI Solutions",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-in-behavioral-healthcare/",
+      "status": 200,
+      "title": "AI Digital Transformation Behavioral Health | AI in Behavioral Healthcare",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-in-healthcare-from-automation-to-intelligence/",
+      "status": 200,
+      "title": "From Automation to Intelligence: AI in Modern Healthcare",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-in-business/",
+      "status": 200,
+      "title": "AI in Business: Strategic Integration, Planning & Key Benefits | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-in-home-care/",
+      "status": 200,
+      "title": "AI in Home Care: Simplified Operations & Better Patient Care",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-in-product-development/",
+      "status": 200,
+      "title": "AI in Product Development: Benefits, Use Cases & ROI Guide",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-ml-based-chatbots-will-take-over-customer-service-in-near-future/",
+      "status": 200,
+      "title": "AI / ML based Chatbots Will Take Over Customer Service in Near Future?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/artificial-intelligence-a-boon-for-marketers/",
+      "status": 200,
+      "title": "Artificial Intelligence-A Boon For Marketers",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ai-solutions-modern-business-transformation-2026/",
+      "status": 200,
+      "title": "AI Solutions for Modern Business Transformation in 2026 | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/artificial-intelligence-and-cloud-computing-the-fusion-revamping-diverse-industries/",
+      "status": 200,
+      "title": "Artificial Intelligence And Cloud Computing-The Fusion Revamping Diverse Industries",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/artificial-intelligence-in-healthcare/",
+      "status": 200,
+      "title": "Artificial Intelligence in Healthcare |",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/augmented-reality-the-next-big-thing-in-retail-sector/",
+      "status": 200,
+      "title": "Augmented Reality-The Next Big Thing In Retail Sector",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/benefits-of-automation-testing-over-manual-testing-for-multilingual-sites/",
+      "status": 200,
+      "title": "Benefits of Automation Testing Over Manual Testing For Multilingual Sites",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/benefits-of-business-intelligence-for-grading-leads/",
+      "status": 200,
+      "title": "Benefits Of Business Intelligence For Grading Leads",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/benefits-of-integrating-artificial-intelligence-in-devops/",
+      "status": 200,
+      "title": "Benefits Of Integrating Artificial Intelligence In DevOps",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/benefits-of-integrating-blockchain-technology-in-banking-industry/",
+      "status": 200,
+      "title": "Benefits Of Integrating Blockchain Technology In Banking Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/benefits-of-integrating-data-science-data-analytics-into-education-industry/",
+      "status": 200,
+      "title": "Benefits Of Integrating Data Science/Data Analytics Into Education Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/benefits-of-using-devops-with-cloud-computing/",
+      "status": 200,
+      "title": "Benefits Of Using DevOps With Cloud Computing",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/building-chatbots-with-natural-language-processing/",
+      "status": 200,
+      "title": "Building Chatbots With Natural Language Processing(NLP)",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/building-an-ai-first-organization-with-scalable-ai-solutions/",
+      "status": 200,
+      "title": "Building an AI-First Organization with Scalable AI Solutions",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/building-production-ready-ai-teams/",
+      "status": 200,
+      "title": "The Essential Guide to Building Production-Ready AI Teams",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/best-ai-development-solution-guide/",
+      "status": 200,
+      "title": "AI Solutions: Build Intelligent, Scalable Solutions with Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/can-natural-languages-provide-a-stable-enough-environment-for-productive-programming/",
+      "status": 200,
+      "title": "Can Natural Languages Provide A Stable Enough Environment For Productive Programming?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/chatbot-solutions-using-machine-learning-for-healthcare/",
+      "status": 200,
+      "title": "Transforming Healthcare with Chatbot Solutions & Mobile Apps",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/cloud-based-project-management-a-boon-for-industries/",
+      "status": 200,
+      "title": "Cloud-Based Project Management-A Boon For Industries",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/cloud-based-digital-transformation-a-technology-to-benefit-diverse-industries/",
+      "status": 200,
+      "title": "Cloud-Based Digital Transformation-A Technology To Benefit Diverse Industries",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/cloud-computing-a-tool-to-revamp-business-operations/",
+      "status": 200,
+      "title": "Cloud Computing-A Tool To Revamp Business Operations",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/common-mistakes-businesses-make-when-adopting-ai/",
+      "status": 200,
+      "title": "Common Mistakes Businesses Make When Adopting AI",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/consumerization-of-healthcare/",
+      "status": 200,
+      "title": "Consumerization of Healthcare",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/continuous-integration-and-continuous-delivery-two-pillars-of-devops/",
+      "status": 200,
+      "title": "Continuous Integration And Continuous Delivery-Two Pillars Of DevOps",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/could-ai-potentially-take-over-the-role-of-sql-analysts/",
+      "status": 200,
+      "title": "Could AI potentially take over the role of SQL analysts?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/data-federation-vs-data-integration/",
+      "status": 200,
+      "title": "Data Federation Vs Data Integration Approaches",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/cybersecurity-and-compliance-trends-for-2023/",
+      "status": 200,
+      "title": "Cybersecurity and Compliance Trends for 2023",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/data-science-the-future-of-financial-services-industry/",
+      "status": 200,
+      "title": "Data Science-The Future Of Financial Services Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/data-visualization-is-indispensable-to-business-intelligence-and-heres-why/",
+      "status": 200,
+      "title": "Data visualization Is Indispensable To Business Intelligence And Here’s Why",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/design-thinking-a-methodology-to-innovate-education-sector/",
+      "status": 200,
+      "title": "Design Thinking-A Methodology To Innovate In Education Sector",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/design-thinking-a-tool-for-modern-marketing/",
+      "status": 200,
+      "title": "Design Thinking-A Tool For Modern Marketing",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/devops-a-game-changer-for-data-and-cyber-security/",
+      "status": 200,
+      "title": "DevOps-A Game Changer For Data And Cyber security",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/design-thinking-a-tool-to-revamp-healthcare-industry/",
+      "status": 200,
+      "title": "Design Thinking-A Tool To Revamp Healthcare Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/did-you-know-that-medical-marketing-is-going-to-be-the-popular-application-of-vr/",
+      "status": 200,
+      "title": "Did You Know That Medical Marketing Is Going To Be The Popular Application Of VR?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/digital-transformation-trends/",
+      "status": 200,
+      "title": "Digital Transformation Trends",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/digital-transformation-change-management/",
+      "status": 200,
+      "title": "Digital Transformation Change Management: Executive Framework for Scaling AI & Automation",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/enhancing-data-mining-with-machine-learning-algorithms/",
+      "status": 200,
+      "title": "Enhancing Data Mining With Machine Learning Algorithms",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/enhance-your-qa-with-devops-integration/",
+      "status": 200,
+      "title": "Enhance your QA with DevOps Integration",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/end-to-end-ai-solutions-intelligent-workflows/",
+      "status": 200,
+      "title": "End-to-End AI Solutions: From Data Infrastructure to Intelligent Workflows",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/enhancing-manufacturing-industry-with-machine-learning-algorithms/",
+      "status": 200,
+      "title": "Enhancing Manufacturing Industry With Machine Learning Algorithms",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/enterprise-ai-solutions-measurable-business-outcomes/",
+      "status": 200,
+      "title": "Enterprise AI Solutions That Deliver Measurable Business Outcomes",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/experience-design-seamless-customer-experience/",
+      "status": 200,
+      "title": "Experience Design: Seamless Customer Experience",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/enterprise-legacy-system-modernization-ai-native-architecture/",
+      "status": 200,
+      "title": "Legacy System Modernization with AI-Native Architecture | Venture7",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/experiencing-a-surge-in-robotic-process-automation-rpa/",
+      "status": 200,
+      "title": "Experiencing a surge in Robotic Process Automation (RPA)?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/exploring-the-correlation-between-high-csr-attrition-in-healthcare-payer-contact-centers-and-star-ratings/",
+      "status": 200,
+      "title": "Exploring the correlation between high CSR attrition in healthcare payer contact centers and Star Ratings.",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/future-of-ai-in-healthcare/",
+      "status": 200,
+      "title": "The Future of AI in Healthcare",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/future-of-healthcare-post-covid-19-pandemic/",
+      "status": 200,
+      "title": "Future of healthcare post-covid-19 pandemic",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/future-proofing-business-with-custom-ai-development-services/",
+      "status": 200,
+      "title": "A Strategic Guide to AI Development Services for Scalable Enterprise Growth | Venture7",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/generative-ai-the-future-of-healthcare-innovation/",
+      "status": 200,
+      "title": "Generative AI – The Future of Healthcare Innovation",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/future-trends-shaping-ai-adoption-in-healthcare/",
+      "status": 200,
+      "title": "Future Trends Shaping AI Adoption in Healthcare - Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/growth-of-ux-design-in-banking-sector/",
+      "status": 200,
+      "title": "Growth Of UX Design In Banking Sector",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/healthcare-data-visualization/",
+      "status": 200,
+      "title": "Healthcare Data Visualization: Insights for Better Decision - Venture7",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/guide-to-selecting-ai-development-services-for-scalable-growth/",
+      "status": 200,
+      "title": "A Strategic Guide to Selecting AI Development Services for Scalable Growth (2026 Edition)",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/healthtech-trends-for-2023-what-to-expect/",
+      "status": 200,
+      "title": "HealthTech trends for 2023, what to expect",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/healthtech-trends-of-2024-shaping-the-future-of-saas-healthcare/",
+      "status": 200,
+      "title": "HealthTech Trends of 2024: Shaping the Future of SaaS Healthcare",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/home-care-referral-automation/",
+      "status": 200,
+      "title": "From Referral to Revenue: Automating Your Patient Intake Process",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-advanced-analytics-is-changing-the-dynamics-of-b2b-industry/",
+      "status": 200,
+      "title": "How Advanced Analytics Is Changing The Dynamics Of B2B Industry?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-agile-is-different-from-other-approaches-of-software-development/",
+      "status": 200,
+      "title": "How Agile Is Different From Other Approaches Of Software Development",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-ai-based-chatbots-are-transforming-business-operations/",
+      "status": 200,
+      "title": "How AI-Based Chatbots Are Transforming Business Operations?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-are-business-intelligence-and-business-performance-management-complementary/",
+      "status": 200,
+      "title": "How Are Business Intelligence And Business Performance Management Complementary?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-are-machine-learning-algorithms-benefiting-data-visualization/",
+      "status": 200,
+      "title": "How Are Machine Learning Algorithms Benefiting Data Visualization?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-artificial-intelligence-based-chatbot-meet-user-requests/",
+      "status": 200,
+      "title": "How AI-Based Chatbot Meet User Requests?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-automated-software-testing-increases-test-coverage/",
+      "status": 200,
+      "title": "How Automated Software Testing Increases Test Coverage?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-business-intelligence-channelize-multiple-departments-in-industries/",
+      "status": 200,
+      "title": "How Business Intelligence Channelize Multiple Departments In Industries?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-business-intelligence-is-benefiting-banking-industry/",
+      "status": 200,
+      "title": "How Business Intelligence Is Benefiting Banking Industry?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-can-data-science-benefit-manufacturing-industry/",
+      "status": 200,
+      "title": "How Can Data Science Benefit Manufacturing Industry?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-cloud-computing-is-changing-the-education-sector-venture7/",
+      "status": 200,
+      "title": "How Cloud Computing Is Changing The Education Sector?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-conversational-ai-is-better-than-a-chatbot/",
+      "status": 200,
+      "title": "How Conversational AI is better than a Chatbot?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-digital-twins-of-a-customerdtoc-will-transform-cx/",
+      "status": 200,
+      "title": "How Digital Twins of a Customer (DToC) will transform CX",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-data-integration-is-the-key-to-improving-healthcare-sector/",
+      "status": 200,
+      "title": "How Data Integration Is The Key To Improving Healthcare Sector?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-disease-prediction-by-machine-learning-is-going-to-revamp-health-sector/",
+      "status": 200,
+      "title": "How Disease Prediction By Machine Learning Is Going To Revamp Health Sector?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-does-data-warehousing-improves-customer-relationship-management/",
+      "status": 200,
+      "title": "How Does Data Warehousing Improves Customer Relationship Management?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-does-nlp-streamline-business-operations/",
+      "status": 200,
+      "title": "How Does NLP Streamline Business Operations?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-advanced-analytics-enhancing-supply-chain-management/",
+      "status": 200,
+      "title": "How Is Advanced Analytics Enhancing Supply Chain Management?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-artificial-intelligence-implemented-to-enhance-customer-service/",
+      "status": 200,
+      "title": "How Is Artificial Intelligence Implemented To Enhance Customer Service?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-augmented-reality-changing-the-world-of-marketing/",
+      "status": 200,
+      "title": "Can Augmented Reality be a gamechanger in the world of marketing? | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-big-data-analytics-enhancing-supply-chain-management-sector/",
+      "status": 200,
+      "title": "How Is Big Data Analytics Enhancing Supply Chain Management Sector?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-business-intelligence-benefiting-the-marketing-sector/",
+      "status": 200,
+      "title": "How Is Business Intelligence Benefiting The Marketing Sector?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-business-intelligence-improving-efficiencies-of-healthcare-industry/",
+      "status": 200,
+      "title": "How Is Business Intelligence Improving Efficiencies Of Healthcare Industry?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-data-analytics-paving-new-directions-of-growth-for-organizations/",
+      "status": 200,
+      "title": "How Is Data Analytics Paving New Directions Of Growth For Organizations?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-data-science-paving-ways-for-the-growth-of-digital-marketing-domain/",
+      "status": 200,
+      "title": "How Is Data Science Paving Ways For The Growth Of Digital Marketing Domain?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-data-warehouse-different-from-database/",
+      "status": 200,
+      "title": "How Is Data Warehouse Different From Database?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-digital-transformation-revamping-retail-industry/",
+      "status": 200,
+      "title": "How Is Digital Transformation Revamping Retail Industry?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-design-thinking-contributing-in-upgrading-business-operations/",
+      "status": 200,
+      "title": "How Is Design Thinking Contributing In Upgrading Business Operations?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-iot-changing-the-marketing-domain/",
+      "status": 200,
+      "title": "How Is IoT Changing The Marketing Domain?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-iot-transforming-the-education-sector/",
+      "status": 200,
+      "title": "How Is IoT Transforming The Education Sector",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-robotic-process-automation-benefiting-healthcare-sector/",
+      "status": 200,
+      "title": "How is Robotic Process Automation(RPA) Benefiting Healthcare Sector?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-rpa-contributing-to-manufacturing-industry/",
+      "status": 200,
+      "title": "How Is RPA Contributing To Manufacturing Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-virtual-reality-making-a-difference-in-product-design/",
+      "status": 200,
+      "title": "How Is Virtual Reality Making A Difference In Product Design?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-is-technology-transforming-healthcare-at-home/",
+      "status": 200,
+      "title": "How is technology transforming healthcare at home?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-machine-learning-algorithms-brings-new-dimensions-to-software-testing/",
+      "status": 200,
+      "title": "How Machine Learning Algorithms Brings New Dimensions To Software Testing?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-manufacturers-will-maximize-automation-by-integrating-business-applications/",
+      "status": 200,
+      "title": "How Manufacturers will Maximize Automation By Integrating Business Applications?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-ml-driven-software-recognizes-patterns-in-the-data-that-can-help-in-real-estate/",
+      "status": 200,
+      "title": "How ML-driven Software Recognizes Patterns In The Data That Can Help In Real Estate?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-natural-language-processing-is-based-on-machine-learning-algorithms/",
+      "status": 200,
+      "title": "How Natural Language Processing Is Based On Machine Learning Algorithms?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-natural-language-processing-is-benefiting-the-healthcare-industry/",
+      "status": 200,
+      "title": "How Natural Language Processing Is Benefiting The healthcare Industry?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-natural-language-processing-is-helping-in-speech-recognition-process/",
+      "status": 200,
+      "title": "How Natural Language Processing is Helping in Speech Recognition Process?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-technology-is-impacting-the-real-estate-industry/",
+      "status": 200,
+      "title": "How Technology is impacting the Real Estate Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-technology-is-improving-the-customer-experience-cx-in-healthcare/",
+      "status": 200,
+      "title": "How technology is Improving the Customer Experience (CX) in Healthcare",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-technology-is-shifting-from-quality-assurance-to-quality-engineering/",
+      "status": 200,
+      "title": "How Technology Is Shifting From Quality Assurance To Quality Engineering?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-technology-is-transforming-the-doctor-patient-dynamic/",
+      "status": 200,
+      "title": "How technology is transforming the doctor-patient dynamic?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-to-build-a-saas-application/",
+      "status": 200,
+      "title": "How to Build A SAAS Application?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-to-choose-the-right-ai-development-company/",
+      "status": 200,
+      "title": "How to Choose the Right AI Development Company in 2025",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-to-use-chatgpt-in-your-pm-work/",
+      "status": 200,
+      "title": "How to use ChatGPT in your PM work?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/how-usability-testing-plays-an-important-role-in-a-companys-success/",
+      "status": 200,
+      "title": "How usability testing plays an important role in a company’s success",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/importance-of-a-business-integration-strategy/",
+      "status": 200,
+      "title": "Importance Of A Business Integration Strategy",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/importance-of-data-science-algorithms-in-search-engines/",
+      "status": 200,
+      "title": "Importance Of Data Science Algorithms In Search Engines",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/importance-of-data-warehouses-in-enhancing-business-activities/",
+      "status": 200,
+      "title": "Importance Of Data Warehouses In Enhancing Business Activities",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/importance-of-drones-in-real-estate/",
+      "status": 200,
+      "title": "Importance of Drones in Real Estate",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/importance-of-real-time-data-for-business-intelligence-software/",
+      "status": 200,
+      "title": "Importance Of Real-Time Data For Business Intelligence Software",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/importance-of-testing-as-a-service-taas-in-irregular-testing-activities/",
+      "status": 200,
+      "title": "Testing as a Service (TaaS) In Irregular Testing Activities",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/integrating-ai-into-ehr-and-emr-systems-for-efficient-healthcare-operations/",
+      "status": 200,
+      "title": "Integrating AI into EHR and EMR Systems for Efficient Healthcare Operations",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/intelligent-process-automation-use-cases/",
+      "status": 200,
+      "title": "Intelligent Process Automation (IPA): Use Cases, Benefits & Future Beyond RPA (2026 Guide)",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/introduction-to-devops-consulting-services/",
+      "status": 200,
+      "title": "Introduction to DevOps Consulting Services",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/intelligent-process-orchestration-enterprise-growth/",
+      "status": 200,
+      "title": "Intelligent Process Orchestration: Connecting People, Systems, and AI for Enterprise Growth",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/is-robotic-assistant-a-new-boon-in-surgeries/",
+      "status": 200,
+      "title": "Is Robotic Assistant A New Boon In Surgeries?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/jp-morgan-healthcare-conference-2026/",
+      "status": 200,
+      "title": "JP Morgan Healthcare Conference 2026 - Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/know-how-blockchain-technologies-used-for-fraud-prevention-and-gaining-ground-in-the-real-estate-industry/",
+      "status": 200,
+      "title": "Blockchain Technologies Used For Fraud Prevention And Gaining Ground In Real Estate",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/know-how-healthcare-sector-gets-benefits-from-the-data-science-application-in-medical-imaging/",
+      "status": 200,
+      "title": "Know How Healthcare Sector Gets Benefits From The Data Science Application In Medical Imaging",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/know-how-vr-tech-took-over-the-real-estate-by-eliminating-communication-barriers/",
+      "status": 200,
+      "title": "Know how VR Tech took over the Real Estate by eliminating communication barriers?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/merging-artificial-intelligence-and-iot-to-transform-diverse-processes/",
+      "status": 200,
+      "title": "Merging Artificial Intelligence And IoT To Transform Diverse Processes",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/merging-data-science-and-iot-for-better-business-processes/",
+      "status": 200,
+      "title": "Merging Data Science And IoT For Better Business Processes",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/natural-language-processing-the-future-of-business-intelligence/",
+      "status": 200,
+      "title": "Natural Language Processing-The Future Of Business Intelligence",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/new-product-mapping-2/",
+      "status": 200,
+      "title": "New Product Mapping-Insights for Success",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/new-product-mapping/",
+      "status": 200,
+      "title": "New Product Mapping",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/next-competitive-advantage-after-ai-adoption/",
+      "status": 200,
+      "title": "The Next Competitive Advantage After AI Adoption Is Operational Intelligence",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/nlp-chatbots-with-dialogflow/",
+      "status": 200,
+      "title": "NLP Chatbots with Dialogflow",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/product-innovation/",
+      "status": 200,
+      "title": "Product Innovation",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/qa-and-software-testing-trends-in-healthcare/",
+      "status": 200,
+      "title": "QA and Software Testing Trends in Healthcare",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/revolutionizing-real-estate-sector-with-iot/",
+      "status": 200,
+      "title": "Revolutionizing Real Estate Sector With IoT",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/rise-of-business-intelligence-in-education-sector/",
+      "status": 200,
+      "title": "Rise Of Business Intelligence In Education Sector",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/robotic-process-automation/",
+      "status": 200,
+      "title": "The Rise of Robotic Process Automation",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/role-of-agile-methodology-in-financial-services-industry/",
+      "status": 200,
+      "title": "Role Of Agile Methodology In Financial Services Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/role-of-agile-methodology-in-software-testing/",
+      "status": 200,
+      "title": "Role Of Agile Methodology In Software Testing",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/role-of-data-science-big-data-in-real-estate-industry/",
+      "status": 200,
+      "title": "Role Of Data Science/Big Data In Real Estate Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/role-of-data-science-in-face-image-and-speech-recognition/",
+      "status": 200,
+      "title": "Role Of Data Science In Face, Image And Speech Recognition",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/role-of-etl-software-in-data-warehousing/",
+      "status": 200,
+      "title": "Role Of ETL Software In Data Warehousing",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/role-of-robot-process-automation-in-insurance-sector/",
+      "status": 200,
+      "title": "Role Of Robot Process Automation(RPA) In Insurance Sector",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/role-of-rpa-in-automating-banking-industry/",
+      "status": 200,
+      "title": "Role Of RPA In Automating Banking Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/rpa-a-tool-to-transform-the-retail-industry/",
+      "status": 200,
+      "title": "RPA-A Tool To Transform The Retail Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/rpa-or-ai-which-is-better/",
+      "status": 200,
+      "title": "RPA or AI, Which is better? -",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/salesforce-consultant-for-healthtech-startups/",
+      "status": 200,
+      "title": "Salesforce Consultant for Health Tech Startups - Venture7",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/scaling-business-operations-with-ai-automation/",
+      "status": 200,
+      "title": "Scaling Business Operations with AI Automation | Venture7",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/software-effort-estimation-technique/",
+      "status": 200,
+      "title": "Bottom-Up Software Effort Estimation Technique",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/strategic-quality-management/",
+      "status": 200,
+      "title": "Strategic Quality Management",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/strategic-role-of-ai-development-services-in-modern-enterprises/",
+      "status": 200,
+      "title": "From Concept to Deployment: The Strategic Role of AI Development Services in Modern Enterprises",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/sweatcoin/",
+      "status": 200,
+      "title": "What insights can we gather from the growth loop of Sweatcoin?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/the-framework-for-stealing-growth-strategies-from-accomplished-products/",
+      "status": 200,
+      "title": "The framework for stealing growth strategies from accomplished products.",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/the-impact-of-ai-ml-development-services-on-modern-healthcare-practices/",
+      "status": 200,
+      "title": "The Impact of AI & ML Development Services on Healthcare | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/the-importance-of-user-interface-design-in-mobile-applications/",
+      "status": 200,
+      "title": "The Significance of User Interface Design in Mobile Applications",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/the-top-5-cybersecurity-and-compliance-trends/",
+      "status": 200,
+      "title": "The top 5 cybersecurity and compliance trends",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/top-10-ai-development-companies/",
+      "status": 200,
+      "title": "Top 10 AI Development Companies [2025]",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/top-10-best-rpa-use-cases-in-the-insurance-industry/",
+      "status": 200,
+      "title": "Top 10 RPA use cases in the Insurance industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/top-10-test-automation-strategies-and-best-practices/",
+      "status": 200,
+      "title": "Top 10 Test Automation Strategies and Best Practices",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/top-5-health-tech-trends-to-watch-in-2022/",
+      "status": 200,
+      "title": "Top 5 Health Tech Trends to Watch in 2022",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/top-7-mobile-app-development-frameworks/",
+      "status": 200,
+      "title": "Top 7 Mobile App Development Frameworks",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/transforming-healthcare-with-big-data/",
+      "status": 200,
+      "title": "Transforming healthcare with big data",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/transforming-marketing-sector-with-machine-learning-attributes/",
+      "status": 200,
+      "title": "Transforming Marketing Sector With Machine Learning Attributes",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/transforming-the-manufacturing-industry-with-business-intelligence-software/",
+      "status": 200,
+      "title": "Transforming The Manufacturing Industry With Business Intelligence Software",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/understanding-apples-new-announcement-called-privacy-manifest/",
+      "status": 200,
+      "title": "Understanding Apple's new announcement called 'Privacy Manifests'",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ux-design-a-technology-to-refine-product-design-and-development/",
+      "status": 200,
+      "title": "UX Design-A Technology To Refine Product Design And Development",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/ux-prototyping-services/",
+      "status": 200,
+      "title": "UX Prototyping Services: Transforming Product Development with Cutting-Edge Innovation",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/wearable-technology-past-present-and-future/",
+      "status": 200,
+      "title": "Wearable Technology: Past, Present and Future",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/what-are-key-software-project-challenges-and-their-effective-approaches/",
+      "status": 200,
+      "title": "What are key software project challenges and their effective approaches?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/what-are-the-different-software-effort-estimation-techniques/",
+      "status": 200,
+      "title": "What are the different software effort estimation techniques?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/what-is-agentic-ai-deep-dive-into-self-directed-decision-making-ai-systems/",
+      "status": 200,
+      "title": "What Is Agentic AI? | A Deep Dive Into Self-Directed, Decision-Making AI Systems",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/what-is-app-store-optimization/",
+      "status": 200,
+      "title": "What is App Store Optimization?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/what-is-medical-record-summarization/",
+      "status": 200,
+      "title": "What is Medical Record Summarization?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/what-is-revenue-cycle-management-in-healthcare/",
+      "status": 200,
+      "title": "What is Revenue Cycle Management in Healthcare?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/what-makes-business-intelligence-different-from-business-analytics/",
+      "status": 200,
+      "title": "What Makes Business Intelligence Different From Business Analytics?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/what-lessons-can-mhealth-apps-learn-from-the-growth-of-candy-crush/",
+      "status": 200,
+      "title": "What lessons can mHealth apps learn from the growth of Candy Crush?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/what-makes-etl-technology-different-from-elt/",
+      "status": 200,
+      "title": "What makes ETL Technology Different From ELT?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/what-role-does-data-analytics-play-in-the-software-testing-process/",
+      "status": 200,
+      "title": "What Role Does Data Analytics Play In The Software Testing Process?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/why-are-we-skeptical-about-amazons-healthcare-aspirations/",
+      "status": 200,
+      "title": "Why are we skeptical about Amazon's Healthcare Aspirations?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/why-cloud-computing-gained-an-important-role-in-healthcare-services/",
+      "status": 200,
+      "title": "Why Cloud Computing gained an important role in Healthcare Services?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/blog/why-software-testing-will-be-one-of-the-most-critical-factors-to-determine-the-success-of-a-machine-learning-system/",
+      "status": 200,
+      "title": "Why Software Testing Will Be One Of The Most Critical Factors To Determine The Success Of a Machine Learning System?",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/career/",
+      "status": 200,
+      "title": "Join Our Team: Explore Career Opportunities at Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/",
+      "status": 200,
+      "title": "Explore Success Stories: Case Studies from Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/comprehensive-test-strategy-to-migrate-client-form-legacy-system/",
+      "status": 200,
+      "title": "Comprehensive Test Strategy To Migrate Client Form Legacy System",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/agile-integrated-devops-strategy-to-improve-product-delivery/",
+      "status": 200,
+      "title": "Agile Integrated DevOps Strategy To Improve Product Delivery",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/automatic-build-deployment-from-dev-environment-to-production-on-a-single-check-in/",
+      "status": 200,
+      "title": "Automatic Build Deployment From Dev Environment To Production On A Single Check-In",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/configuration-comparison-and-reporting-tools/",
+      "status": 200,
+      "title": "Configuration Comparison And Reporting Tools",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/creating-a-setting-portal-for-client/",
+      "status": 200,
+      "title": "Creating A Setting Portal For Client",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/dashboard-for-daily-order-processing-statistics/",
+      "status": 200,
+      "title": "Dashboard For Daily Order Processing Statistics",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/development-of-an-order-processing-chabot-for-industrial-gas-company/",
+      "status": 200,
+      "title": "Development Of An Order Processing Chabot For Industrial Gas Company",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/group-configuration-monitoring-and-review-system-for-us-healthcare-client/",
+      "status": 200,
+      "title": "Group Configuration Monitoring And Review System For US Healthcare Client",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/integration-of-automation-test-scripts-with-ci-cd-process/",
+      "status": 200,
+      "title": "Integration Of Automation Test Scripts With CI/CD Process",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/integration-of-container-technology-with-automation/",
+      "status": 200,
+      "title": "Integration Of Container Technology With Automation",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/medico4her-chatbot/",
+      "status": 200,
+      "title": "Medico4her Chatbot",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/performance-benchmarking-during-the-technology-migration-of-an-enterprise-system/",
+      "status": 200,
+      "title": "Performance Benchmarking During The Technology Migration Of An Enterprise System",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/psychology-based-learning-application-and-content-management-system/",
+      "status": 200,
+      "title": "Psychology based Learning Application and Content Management System",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/spaly-spa-resort-chatbot/",
+      "status": 200,
+      "title": "Spaly Spa & Resort Chatbot",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/ssis-packages-to-automate-customer-specific-reports/",
+      "status": 200,
+      "title": "SSIS Packages To Automate Customer Specific Reports",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/casestudy/website-performance-and-usages-key-indicators-reporting-system/",
+      "status": 200,
+      "title": "Website Performance And Usages Key Indicators Reporting System",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/chatbot/",
+      "status": 200,
+      "title": "Chatbot",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/cloud-devops/",
+      "status": 200,
+      "title": "Cloud & DevOps Consulting Services | AWS, Azure & GCP | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/contact/",
+      "status": 200,
+      "title": "Contact Us - Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/devops/",
+      "status": 200,
+      "title": "DevOps",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/dialogflow/",
+      "status": 200,
+      "title": "Dialogflow Chatbot Development Services | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/digital-transformation/",
+      "status": 200,
+      "title": "Digital Transformation Services & Consulting Company | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/data-engineering/",
+      "status": 200,
+      "title": "Data Engineering",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/dot-net-development/",
+      "status": 200,
+      "title": ".NET Development Services & Custom Software Solutions | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/expertise/",
+      "status": 200,
+      "title": "Expertise",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/fractional-cto/",
+      "status": 200,
+      "title": "Fractional-CTO-Services",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/enterprise-application-development/",
+      "status": 200,
+      "title": "Enterprise Application Development Services Company | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/gcc/",
+      "status": 200,
+      "title": "Global Capability Center",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/future-of-work/",
+      "status": 200,
+      "title": "Future of Work",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/hlth/",
+      "status": 200,
+      "title": "HLTH 2024",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/generative-ai/",
+      "status": 200,
+      "title": "Generative AI Development Services & Solutions Company | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/hotel-bot-demo/",
+      "status": 200,
+      "title": "Hotel Concierge Bot Demo",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jmeter-performance-testing/",
+      "status": 200,
+      "title": "JMeter Load & Performance Testing Services – Web & Mobile Apps",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/data-engineer/",
+      "status": 200,
+      "title": "Data Engineer",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/data-modeling-specialist/",
+      "status": 200,
+      "title": "Data Modeling Specialist",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/dot-net-architect-3/",
+      "status": 200,
+      "title": "Dot Net Architect",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/dot-net-architect/",
+      "status": 200,
+      "title": "Natural Language Processing (AI/ML)",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/java-technical-architect/",
+      "status": 200,
+      "title": "Java Technical Architect",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/lead-full-stack-developer-php/",
+      "status": 200,
+      "title": "Lead Full Stack Developer (PHP)",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/lead-sr-dot-net-developer/",
+      "status": 200,
+      "title": "Lead/Sr. Dot Net Developer",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/magento-developer/",
+      "status": 200,
+      "title": "Magento Developer",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/product-owner/",
+      "status": 200,
+      "title": "Product Owner",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/qa-engineer/",
+      "status": 200,
+      "title": "QA Engineer",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/jobpost/wordpress-developer/",
+      "status": 200,
+      "title": "WordPress Developer (Plugin & Theme)",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/life/",
+      "status": 200,
+      "title": "Life",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/life/diwali-celebration/",
+      "status": 200,
+      "title": "Diwali Celebration",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/life/dribbble-meetup-2019/",
+      "status": 200,
+      "title": "Dribbble Meetup 2019",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/life/lohagarh-2019/",
+      "status": 200,
+      "title": "Lohagarh 2019 - Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/life/walk-in-drive/",
+      "status": 200,
+      "title": "Walk in Drive",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/microsoft-bot-framework/",
+      "status": 200,
+      "title": "Microsoft Bot Framework Development Services | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/media/",
+      "status": 200,
+      "title": "Media",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/mobile-app-development/",
+      "status": 200,
+      "title": "Mobile App Development Company & Services | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/mobile-application-automation/",
+      "status": 200,
+      "title": "Mobile Application Test Automation Services | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/power-bi/",
+      "status": 200,
+      "title": "Microsoft Power BI Consulting & Development Services | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/privacy-policy/",
+      "status": 200,
+      "title": "Privacy Policy",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/product-engineering/",
+      "status": 200,
+      "title": "Software Product Engineering Services Company - Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/prodxellence/",
+      "status": 200,
+      "title": "ProdXellence",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/quality-engineering/",
+      "status": 200,
+      "title": "Quality Engineering",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/react-native-app-development/",
+      "status": 200,
+      "title": "React Native App Development Company & Services | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/rpa-power-automate/",
+      "status": 200,
+      "title": "Power Automate Consulting Services | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/saas-application-development-company/",
+      "status": 200,
+      "title": "SaaS Application Development Company | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/saas-product-development/",
+      "status": 200,
+      "title": "SaaS Product Development Services Company - Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/saas-software-development/",
+      "status": 200,
+      "title": "SaaS Software Development Services Company - Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/salesforce-consulting/",
+      "status": 200,
+      "title": "Salesforce Consulting Services Company | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/security-testing/",
+      "status": 200,
+      "title": "Security Testing",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/salesforce-implementation/",
+      "status": 200,
+      "title": "Salesforce Implementation Services Company - Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/shereturns-program/",
+      "status": 200,
+      "title": "SheReturns Program by Venture7 | Relaunch Your Career After a Break",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/sitemap/",
+      "status": 200,
+      "title": "SiteMap",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/ssis/",
+      "status": 200,
+      "title": "SSIS ETL & Data Warehouse Development Services | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tableau-for-bi-and-reporting/",
+      "status": 200,
+      "title": "Tableau Consulting & Data Visualization Services | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/agile/",
+      "status": 200,
+      "title": "Agile | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/saas-apps-using-laravel/",
+      "failure": true,
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "route": "/tag/artificial-intelligence/",
+      "status": 200,
+      "title": "Artificial Intelligence | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/automated-testing/",
+      "status": 200,
+      "title": "Automated testing | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/big-data/",
+      "status": 200,
+      "title": "Big Data | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/blockchain/",
+      "status": 200,
+      "title": "Blockchain | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/chatbots/",
+      "status": 200,
+      "title": "Chatbots | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/business-intelligence/",
+      "status": 200,
+      "title": "Business Intelligence | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/cloud-computing/",
+      "status": 200,
+      "title": "Cloud Computing | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/customer-experience/",
+      "status": 200,
+      "title": "Customer Experience | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/data-science/",
+      "status": 200,
+      "title": "Data Science | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/design-thinking/",
+      "status": 200,
+      "title": "Design Thinking | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/devops/",
+      "status": 200,
+      "title": "DevOps | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/dialogflow/",
+      "status": 200,
+      "title": "Dialogflow | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/digital-transformation/",
+      "status": 200,
+      "title": "Digital transformation | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/edutech/",
+      "status": 200,
+      "title": "EduTech | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/etl/",
+      "status": 200,
+      "title": "ETL | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/healthcare/",
+      "status": 200,
+      "title": "Healthcare | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/healthtech/",
+      "status": 200,
+      "title": "HealthTech | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/machine-learning/",
+      "status": 200,
+      "title": "Machine Learning | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/mobile-application/",
+      "status": 200,
+      "title": "Mobile application | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/quality-ascent/",
+      "status": 200,
+      "title": "Quality Ascent | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/product-development/",
+      "status": 200,
+      "title": "Product Development | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/quality-assurance/",
+      "status": 200,
+      "title": "Quality Assurance | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/real-estate/",
+      "status": 200,
+      "title": "Real Estate | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/software-testing/",
+      "status": 200,
+      "title": "Software Testing | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/startup/",
+      "status": 200,
+      "title": "StartUp | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/testing/",
+      "status": 200,
+      "title": "Testing | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/term-of-service/",
+      "status": 200,
+      "title": "Term of Service",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/thank-you/",
+      "status": 200,
+      "title": "Thank You",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/thanks-for-appearring/",
+      "status": 200,
+      "title": "Thanks For Appearring",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/uipath/",
+      "status": 200,
+      "title": "UiPath RPA Development & Automation Services | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/venture7-research/",
+      "status": 200,
+      "title": "Venture7 Research",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/venture7-research/ai-transforming-wellness-industry/",
+      "status": 200,
+      "title": "AI Transforming Wellness Industry",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/venture7-research/bringing-test-automation-in-the-hands-of-business-users/",
+      "status": 200,
+      "title": "Bringing Test automation in the hands of business users",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/venture7-research/selecting-the-right-automation-tool-framework-for-project-success/",
+      "status": 200,
+      "title": "Selecting The Right Automation Tool Framework For Project Success",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/webinar/",
+      "status": 200,
+      "title": "Webinar",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/ai-blog/",
+      "status": 200,
+      "title": "AI | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/ai-blog/page/2/",
+      "status": 200,
+      "title": "AI | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/ai-blog/page/3/",
+      "status": 200,
+      "title": "AI | Venture7® - Part 3",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/",
+      "status": 200,
+      "title": "Blog | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/10/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 10",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/11/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 11",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/12/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 12",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/13/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 13",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/14/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 14",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/15/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 15",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/16/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 16",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/2/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/3/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 3",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/4/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 4",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/5/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 5",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/6/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 6",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/7/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 7",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/8/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 8",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/blog/page/9/",
+      "status": 200,
+      "title": "Blog | Venture7® - Part 9",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/data-tandem/",
+      "status": 200,
+      "title": "Data Engineering | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/data-tandem/page/2/",
+      "status": 200,
+      "title": "Data Engineering | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/data-tandem/page/3/",
+      "status": 200,
+      "title": "Data Engineering | Venture7® - Part 3",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/data-tandem/page/4/",
+      "status": 200,
+      "title": "Data Engineering | Venture7® - Part 4",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/product-engineering/",
+      "status": 200,
+      "title": "Product Engineering | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/product-engineering/page/2/",
+      "status": 200,
+      "title": "Product Engineering | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/product-engineering/page/3/",
+      "status": 200,
+      "title": "Product Engineering | Venture7® - Part 3",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/product-engineering/page/4/",
+      "status": 200,
+      "title": "Product Engineering | Venture7® - Part 4",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/product-engineering/page/5/",
+      "status": 200,
+      "title": "Product Engineering | Venture7® - Part 5",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/quality-ascent/",
+      "status": 200,
+      "title": "Quality Engineering | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/quality-ascent/page/2/",
+      "status": 200,
+      "title": "Quality Engineering | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/category/rpa/",
+      "status": 200,
+      "title": "RPA | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/rpa/",
+      "status": 200,
+      "title": "RPA | Venture7®",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/agile/page/2/",
+      "status": 200,
+      "title": "Agile | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/artificial-intelligence/page/2/",
+      "status": 200,
+      "title": "Artificial Intelligence | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/artificial-intelligence/page/3/",
+      "status": 200,
+      "title": "Artificial Intelligence | Venture7® - Part 3",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/data-science/page/2/",
+      "status": 200,
+      "title": "Data Science | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/data-science/page/3/",
+      "status": 200,
+      "title": "Data Science | Venture7® - Part 3",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/data-science/page/4/",
+      "status": 200,
+      "title": "Data Science | Venture7® - Part 4",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/data-science/page/5/",
+      "status": 200,
+      "title": "Data Science | Venture7® - Part 5",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/healthtech/page/2/",
+      "status": 200,
+      "title": "HealthTech | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/machine-learning/page/2/",
+      "status": 200,
+      "title": "Machine Learning | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/product-development/page/2/",
+      "status": 200,
+      "title": "Product Development | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/startup/page/2/",
+      "status": 200,
+      "title": "StartUp | Venture7® - Part 2",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    },
+    {
+      "route": "/tag/startup/page/3/",
+      "status": 200,
+      "title": "StartUp | Venture7® - Part 3",
+      "content": 1,
+      "externalStylesheets": 0,
+      "externalScripts": []
+    }
+  ]
+}

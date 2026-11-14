@@ -1,0 +1,83 @@
+{
+  "routes": 312,
+  "pages": 312,
+  "scriptPages": [],
+  "styles": [],
+  "iframePages": [
+    "webinar\\page.tsx"
+  ],
+  "customHeaders": [
+    "ai-solution-demo\\page.tsx",
+    "assessment\\ai-readiness\\page.tsx"
+  ],
+  "counts": {
+    "form": 5317,
+    "contact": 421,
+    "carousel": 216,
+    "accordion": 323,
+    "timeline": 1,
+    "video": 60,
+    "counter": 3,
+    "countdown": 1,
+    "foogallery": 4
+  },
+  "missingImages": {
+    "/assets/uploads/2024/01/08100438/dialogflow1.mp4 ": [
+      "dialogflow\\page.tsx"
+    ],
+    "/assets/theme/images/mobileautomation/mobile_automation.ogg": [
+      "mobile-application-automation\\page.tsx"
+    ],
+    "/assets/uploads/2025/07/Mask-group-1.webp": [
+      "saas-application-development-company\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Requirement-Gathering.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Solution-Designing.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Configuration-Customization.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Data-Migration.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Integration-with-Existing-Systems.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/User-Training-Support.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Experienced-Team.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Custom-Solutions.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Scalable-Implementations.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Dedicated-SPOC.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Future-Ready-Solutions.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2024/09/Transparent-Process.png": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2025/07/healthtech-1.webp": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/uploads/2025/07/Gas-Industry.webp": [
+      "salesforce-implementation\\page.tsx"
+    ],
+    "/assets/theme/images/tableau/Tableau_Demo.mp4 ": [
+      "tableau-for-bi-and-reporting\\page.tsx"
+    ],
+    "/assets/uploads/2024/05/party-emoji.png": [
+      "thank-you\\page.tsx"
+    ]
+  }
+}

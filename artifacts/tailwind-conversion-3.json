@@ -1,0 +1,536 @@
+[
+  {
+    "route": "/agentops/",
+    "elements": 744,
+    "milliseconds": 7936,
+    "stylesheetRules": 15565
+  },
+  {
+    "route": "/assessment/ai-readiness/",
+    "elements": 134,
+    "milliseconds": 1520,
+    "stylesheetRules": 14790
+  },
+  {
+    "route": "/blog/10-devops-use-cases-and-real-life-applications/",
+    "elements": 192,
+    "milliseconds": 2084,
+    "stylesheetRules": 16586
+  },
+  {
+    "route": "/blog/agentic-ai-modern-healthcare/",
+    "elements": 384,
+    "milliseconds": 2921,
+    "stylesheetRules": 15935
+  },
+  {
+    "route": "/blog/ai-contextual-governance-solution/",
+    "elements": 448,
+    "milliseconds": 3348,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/ai-in-behavioral-healthcare/",
+    "elements": 206,
+    "milliseconds": 2386,
+    "stylesheetRules": 16586
+  },
+  {
+    "route": "/blog/ai-in-product-development/",
+    "elements": 227,
+    "milliseconds": 1838,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/artificial-intelligence-and-cloud-computing-the-fusion-revamping-diverse-industries/",
+    "elements": 159,
+    "milliseconds": 1978,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/benefits-of-business-intelligence-for-grading-leads/",
+    "elements": 176,
+    "milliseconds": 2345,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/benefits-of-using-devops-with-cloud-computing/",
+    "elements": 145,
+    "milliseconds": 2052,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/building-production-ready-ai-teams/",
+    "elements": 247,
+    "milliseconds": 2548,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/cloud-based-project-management-a-boon-for-industries/",
+    "elements": 147,
+    "milliseconds": 2016,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/continuous-integration-and-continuous-delivery-two-pillars-of-devops/",
+    "elements": 165,
+    "milliseconds": 1741,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/data-science-the-future-of-financial-services-industry/",
+    "elements": 166,
+    "milliseconds": 1953,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/design-thinking-a-tool-to-revamp-healthcare-industry/",
+    "elements": 178,
+    "milliseconds": 2053,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/digital-transformation-trends/",
+    "elements": 132,
+    "milliseconds": 1823,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/enhancing-manufacturing-industry-with-machine-learning-algorithms/",
+    "elements": 159,
+    "milliseconds": 1760,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/experiencing-a-surge-in-robotic-process-automation-rpa/",
+    "elements": 136,
+    "milliseconds": 1868,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/future-proofing-business-with-custom-ai-development-services/",
+    "elements": 184,
+    "milliseconds": 2065,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/guide-to-selecting-ai-development-services-for-scalable-growth/",
+    "elements": 382,
+    "milliseconds": 3285,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/home-care-referral-automation/",
+    "elements": 245,
+    "milliseconds": 2476,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-are-business-intelligence-and-business-performance-management-complementary/",
+    "elements": 164,
+    "milliseconds": 1895,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-business-intelligence-channelize-multiple-departments-in-industries/",
+    "elements": 157,
+    "milliseconds": 1877,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-conversational-ai-is-better-than-a-chatbot/",
+    "elements": 153,
+    "milliseconds": 1841,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-does-data-warehousing-improves-customer-relationship-management/",
+    "elements": 172,
+    "milliseconds": 2377,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-is-augmented-reality-changing-the-world-of-marketing/",
+    "elements": 165,
+    "milliseconds": 1889,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-is-data-analytics-paving-new-directions-of-growth-for-organizations/",
+    "elements": 163,
+    "milliseconds": 1936,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-is-digital-transformation-revamping-retail-industry/",
+    "elements": 145,
+    "milliseconds": 1923,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-is-rpa-contributing-to-manufacturing-industry/",
+    "elements": 167,
+    "milliseconds": 2090,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-manufacturers-will-maximize-automation-by-integrating-business-applications/",
+    "elements": 159,
+    "milliseconds": 2156,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-natural-language-processing-is-helping-in-speech-recognition-process/",
+    "elements": 148,
+    "milliseconds": 2160,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-technology-is-transforming-the-doctor-patient-dynamic/",
+    "elements": 164,
+    "milliseconds": 2055,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/how-usability-testing-plays-an-important-role-in-a-companys-success/",
+    "elements": 156,
+    "milliseconds": 2038,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/importance-of-drones-in-real-estate/",
+    "elements": 145,
+    "milliseconds": 2096,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/intelligent-process-automation-use-cases/",
+    "elements": 322,
+    "milliseconds": 3193,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/jp-morgan-healthcare-conference-2026/",
+    "elements": 300,
+    "milliseconds": 2805,
+    "stylesheetRules": 16405
+  },
+  {
+    "route": "/blog/merging-artificial-intelligence-and-iot-to-transform-diverse-processes/",
+    "elements": 157,
+    "milliseconds": 2561,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/new-product-mapping/",
+    "elements": 182,
+    "milliseconds": 4353,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/qa-and-software-testing-trends-in-healthcare/",
+    "elements": 168,
+    "milliseconds": 2837,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/role-of-agile-methodology-in-financial-services-industry/",
+    "elements": 144,
+    "milliseconds": 2886,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/role-of-etl-software-in-data-warehousing/",
+    "elements": 160,
+    "milliseconds": 3114,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/rpa-or-ai-which-is-better/",
+    "elements": 205,
+    "milliseconds": 3525,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/strategic-quality-management/",
+    "elements": 264,
+    "milliseconds": 3655,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/the-impact-of-ai-ml-development-services-on-modern-healthcare-practices/",
+    "elements": 321,
+    "milliseconds": 4350,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/top-10-best-rpa-use-cases-in-the-insurance-industry/",
+    "elements": 162,
+    "milliseconds": 2417,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/transforming-healthcare-with-big-data/",
+    "elements": 166,
+    "milliseconds": 3128,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/ux-design-a-technology-to-refine-product-design-and-development/",
+    "elements": 169,
+    "milliseconds": 2676,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/what-are-the-different-software-effort-estimation-techniques/",
+    "elements": 284,
+    "milliseconds": 3460,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/what-is-revenue-cycle-management-in-healthcare/",
+    "elements": 199,
+    "milliseconds": 3307,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/blog/what-role-does-data-analytics-play-in-the-software-testing-process/",
+    "elements": 161,
+    "milliseconds": 2921,
+    "stylesheetRules": 16400
+  },
+  {
+    "route": "/career/",
+    "elements": 188,
+    "milliseconds": 3042,
+    "stylesheetRules": 16539
+  },
+  {
+    "route": "/casestudy/comprehensive-test-strategy-to-migrate-client-form-legacy-system/",
+    "elements": 293,
+    "milliseconds": 303,
+    "stylesheetRules": 2844
+  },
+  {
+    "route": "/casestudy/development-of-an-order-processing-chabot-for-industrial-gas-company/",
+    "elements": 328,
+    "milliseconds": 2567,
+    "stylesheetRules": 14655
+  },
+  {
+    "route": "/casestudy/medico4her-chatbot/",
+    "elements": 335,
+    "milliseconds": 2935,
+    "stylesheetRules": 14663
+  },
+  {
+    "route": "/casestudy/ssis-packages-to-automate-customer-specific-reports/",
+    "elements": 304,
+    "milliseconds": 304,
+    "stylesheetRules": 2850
+  },
+  {
+    "route": "/contact/",
+    "elements": 178,
+    "milliseconds": 1680,
+    "stylesheetRules": 14922
+  },
+  {
+    "route": "/digital-transformation/",
+    "elements": 402,
+    "milliseconds": 4763,
+    "stylesheetRules": 14997
+  },
+  {
+    "route": "/fractional-cto/",
+    "elements": 214,
+    "milliseconds": 379,
+    "stylesheetRules": 2850
+  },
+  {
+    "route": "/hlth/",
+    "elements": 190,
+    "milliseconds": 217,
+    "stylesheetRules": 2844
+  },
+  {
+    "route": "/jobpost/data-modeling-specialist/",
+    "elements": 168,
+    "milliseconds": 236,
+    "stylesheetRules": 2850
+  },
+  {
+    "route": "/jobpost/lead-full-stack-developer-php/",
+    "elements": 226,
+    "milliseconds": 2248,
+    "stylesheetRules": 16134
+  },
+  {
+    "route": "/jobpost/qa-engineer/",
+    "elements": 242,
+    "milliseconds": 3130,
+    "stylesheetRules": 16384
+  },
+  {
+    "route": "/life/dribbble-meetup-2019/",
+    "elements": 60,
+    "milliseconds": 1717,
+    "stylesheetRules": 16537
+  },
+  {
+    "route": "/microsoft-bot-framework/",
+    "elements": 179,
+    "milliseconds": 233,
+    "stylesheetRules": 2850
+  },
+  {
+    "route": "/privacy-policy/",
+    "elements": 111,
+    "milliseconds": 1900,
+    "stylesheetRules": 14651
+  },
+  {
+    "route": "/react-native-app-development/",
+    "elements": 192,
+    "milliseconds": 264,
+    "stylesheetRules": 2844
+  },
+  {
+    "route": "/saas-product-development/",
+    "elements": 391,
+    "milliseconds": 467,
+    "stylesheetRules": 2844
+  },
+  {
+    "route": "/security-testing/",
+    "elements": 208,
+    "milliseconds": 404,
+    "stylesheetRules": 2850
+  },
+  {
+    "route": "/tableau-for-bi-and-reporting/",
+    "elements": 250,
+    "milliseconds": 3245,
+    "stylesheetRules": 14688
+  },
+  {
+    "route": "/tag/big-data/",
+    "elements": 167,
+    "milliseconds": 2070,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/tag/cloud-computing/",
+    "elements": 263,
+    "milliseconds": 2418,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/tag/devops/",
+    "elements": 247,
+    "milliseconds": 1927,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/tag/etl/",
+    "elements": 199,
+    "milliseconds": 1704,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/tag/mobile-application/",
+    "elements": 167,
+    "milliseconds": 1605,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/tag/real-estate/",
+    "elements": 167,
+    "milliseconds": 1401,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/term-of-service/",
+    "elements": 82,
+    "milliseconds": 1025,
+    "stylesheetRules": 14652
+  },
+  {
+    "route": "/venture7-research/",
+    "elements": 88,
+    "milliseconds": 1555,
+    "stylesheetRules": 14613
+  },
+  {
+    "route": "/webinar/",
+    "elements": 338,
+    "milliseconds": 408,
+    "stylesheetRules": 2844
+  },
+  {
+    "route": "/category/blog/",
+    "elements": 348,
+    "milliseconds": 2015,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/category/blog/page/13/",
+    "elements": 350,
+    "milliseconds": 2213,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/category/blog/page/2/",
+    "elements": 350,
+    "milliseconds": 2122,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/category/blog/page/6/",
+    "elements": 350,
+    "milliseconds": 2158,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/category/data-tandem/",
+    "elements": 350,
+    "milliseconds": 2114,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/category/product-engineering/",
+    "elements": 348,
+    "milliseconds": 1918,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/category/product-engineering/page/5/",
+    "elements": 204,
+    "milliseconds": 1709,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/rpa/",
+    "elements": 167,
+    "milliseconds": 1501,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/tag/data-science/page/2/",
+    "elements": 352,
+    "milliseconds": 2045,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/tag/healthtech/page/2/",
+    "elements": 204,
+    "milliseconds": 1906,
+    "stylesheetRules": 16150
+  },
+  {
+    "route": "/tag/startup/page/3/",
+    "elements": 284,
+    "milliseconds": 1957,
+    "stylesheetRules": 16150
+  }
+]
