@@ -7,7 +7,7 @@ type Gallery = { images: { src: string; alt: string }[]; index: number };
 type Field = HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement;
 
 const showClasses = 'data-[runtime-open=true]:block! data-[runtime-open=false]:hidden!';
-const slideClasses = 'transition-opacity duration-700 motion-reduce:transition-none data-[active=false]:opacity-0! data-[active=false]:invisible! data-[active=false]:pointer-events-none! data-[active=true]:opacity-100! data-[active=true]:visible! data-[active=true]:transform-none! data-[active=true]:translate-x-0!';
+const slideClasses = 'transform-none transition-none! data-[hero-shown=false]:invisible! data-[hero-shown=false]:opacity-0! data-[hero-shown=false]:pointer-events-none! data-[hero-shown=true]:visible! data-[hero-shown=true]:opacity-100!';
 const addClasses = (element: Element, classes: string) => element.classList.add(...classes.split(' '));
 const settingsFor = (element: Element) => {
   try { return JSON.parse((element.getAttribute('data-settings') || '{}').replaceAll('&quot;', '"').replaceAll('&amp;', '&')); }
@@ -60,41 +60,91 @@ export default function WebsiteInteractions() {
     });
 
     document.querySelectorAll<HTMLElement>('.n2-ss-slider').forEach(slider => {
-      const slides = [...slider.querySelectorAll<HTMLElement>('.n2-ss-slide')];
-      const backgrounds = [...slider.querySelectorAll<HTMLElement>('.n2-ss-slide-backgrounds > .n2-ss-slide-background')];
-      const bullets = [...slider.querySelectorAll<HTMLElement>('.n2-bullet')];
+      const own = (selector: string) => [...slider.querySelectorAll<HTMLElement>(selector)].filter(element => element.closest('.n2-ss-slider') === slider);
+      const slides = own('.n2-ss-slide');
+      const backgrounds = own('.n2-ss-slide-background');
+      const bullets = own('.n2-bullet');
       if (!slides.length) return;
       let current = 0;
+      let initialized = false;
+      const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+      const animations = new Map<HTMLElement, Animation>();
+      const elements = [...slides, ...backgrounds];
+      elements.forEach(element => {
+        element.classList.remove(...[...element.classList].filter(token => token.startsWith('data-[active=') || token.startsWith('[transform:') || token.startsWith('[transition:')));
+        addClasses(element, slideClasses);
+      });
+      slider.setAttribute('role', 'region');
+      slider.setAttribute('aria-roledescription', 'carousel');
+      slider.setAttribute('aria-label', 'Venture7 highlights');
       let timer: ReturnType<typeof setInterval> | undefined;
-      const render = (index: number) => {
-        current = (index + slides.length) % slides.length;
-        [...slides, ...backgrounds].forEach(element => {
-          addClasses(element, slideClasses);
-          const active = (slides.includes(element) ? slides : backgrounds).indexOf(element) === current;
+      const render = (index: number, direction = index >= current ? 1 : -1) => {
+        const next = (index + slides.length) % slides.length;
+        if (initialized && next === current) return;
+        const previous = current;
+        current = next;
+        elements.forEach(element => {
+          const position = (slides.includes(element) ? slides : backgrounds).indexOf(element);
+          const active = position === current;
+          const outgoing = initialized && position === previous;
+          const startTransform = animations.has(element) ? getComputedStyle(element).transform : 'translateX(0)';
+          animations.get(element)?.cancel();
+          animations.delete(element);
           element.dataset.active = String(active);
           element.setAttribute('aria-hidden', String(!active));
+          element.inert = !active;
+          element.dataset.heroShown = String(active || (outgoing && !reducedMotion.matches));
+          if (initialized && !reducedMotion.matches && (active || outgoing)) {
+            const animation = element.animate([
+              { transform: active ? `translateX(${direction * 100}%)` : startTransform },
+              { transform: active ? 'translateX(0)' : `translateX(${-direction * 100}%)` },
+            ], { duration: 650, easing: 'cubic-bezier(0.4,0,0.2,1)' });
+            animations.set(element, animation);
+            animation.finished.then(() => {
+              if (animations.get(element) !== animation) return;
+              animations.delete(element);
+              element.dataset.heroShown = element.dataset.active;
+            }).catch(() => {});
+          }
         });
         bullets.forEach((bullet, i) => {
           bullet.setAttribute('aria-label', `Go to slide ${i + 1}`);
+          bullet.setAttribute('role', 'button');
+          bullet.tabIndex = 0;
           bullet.setAttribute('aria-current', String(i === current));
           bullet.classList.toggle('n2-active', i === current);
-          addClasses(bullet, 'cursor-pointer aria-[current=true]:bg-[#035c56]!');
+          addClasses(bullet, 'visible! cursor-pointer! transition-colors duration-200 aria-[current=true]:bg-[#035c56]! aria-[current=false]:bg-[#bebebe]! focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#035c56]');
         });
+        initialized = true;
       };
       const stop = () => { if (timer) clearInterval(timer); };
-      const start = () => { stop(); if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) timer = setInterval(() => render(current + 1), 6000); };
+      const start = () => { stop(); if (!reducedMotion.matches && !slider.matches(':hover') && !slider.contains(document.activeElement)) timer = setInterval(() => render(current + 1, 1), 6000); };
+      const motionChanged = () => {
+        animations.forEach(animation => animation.cancel());
+        animations.clear();
+        elements.forEach(element => { element.dataset.heroShown = element.dataset.active; });
+        start();
+      };
+      reducedMotion.addEventListener('change', motionChanged);
+      cleanups.push(() => reducedMotion.removeEventListener('change', motionChanged));
       bullets.forEach((bullet, i) => {
         on(bullet, 'click', () => { render(i); start(); });
-        on(bullet, 'keydown', event => { if (['Enter', ' '].includes(event.key)) { event.preventDefault(); render(i); } });
+      });
+      on(slider, 'keydown', event => {
+        if (!['ArrowLeft', 'ArrowRight'].includes(event.key)) return;
+        event.preventDefault();
+        render(current + (event.key === 'ArrowRight' ? 1 : -1), event.key === 'ArrowRight' ? 1 : -1);
+        bullets[current]?.focus({ preventScroll: true });
       });
       on(slider, 'mouseenter', stop);
       on(slider, 'mouseleave', start);
       on(slider, 'focusin', stop);
-      on(slider, 'focusout', start);
+      on(slider, 'focusout', event => { if (!slider.contains(event.relatedTarget as Node | null)) setTimeout(start, 0); });
       slider.classList.add('n2-ss-loaded');
       render(0);
       start();
       cleanups.push(stop);
+      cleanups.push(() => animations.forEach(animation => animation.cancel()));
     });
 
     const bases = [
@@ -179,18 +229,48 @@ export default function WebsiteInteractions() {
       const section = container.closest('.row') || container.parentElement;
       const tabs = [...(section?.querySelectorAll<HTMLElement>('.white-box .img-scale__wrap') || [])];
       if (!panels.length || !tabs.length) return;
+      addClasses(container, 'grid grid-cols-1');
+      panels.forEach(panel => addClasses(panel, 'col-start-1 row-start-1 block! transition-opacity duration-300 ease-out motion-reduce:transition-none data-[service-active=false]:invisible! data-[service-active=false]:opacity-0! data-[service-active=false]:pointer-events-none! data-[service-active=true]:visible! data-[service-active=true]:opacity-100!'));
+      tabs.forEach(tab => {
+        const quadrant = tab.closest('li');
+        if (quadrant) {
+          quadrant.classList.remove(...[...quadrant.classList].filter(token => token.startsWith('[transition:') || token.startsWith('[-webkit-transition:')));
+          addClasses(quadrant, 'right-auto! bottom-auto! m-0! transition-[left,top] duration-700 ease-in-out motion-reduce:transition-none data-[quadrant=left]:left-[2.5%]! data-[quadrant=left]:top-[30%]! data-[quadrant=bottom]:left-[30%]! data-[quadrant=bottom]:top-[57.5%]! data-[quadrant=right]:left-[57.5%]! data-[quadrant=right]:top-[30%]! data-[quadrant=top]:left-[30%]! data-[quadrant=top]:top-[2.5%]!');
+        }
+        addClasses(tab, 'cursor-pointer max-[767px]:p-0! transition-colors duration-300 motion-reduce:transition-none aria-pressed:[color:var(--color-primary)]! aria-[pressed=false]:[color:var(--color-gray)]!');
+        tab.querySelectorAll('img').forEach(icon => {
+          icon.classList.remove(...[...icon.classList].filter(token => (token.startsWith('group-hover/') && token.includes('[transform:')) || token.startsWith('[transition:') || token.startsWith('[-webkit-transition:')));
+          addClasses(icon, 'transition-[filter] duration-300 ease-out motion-reduce:transition-none data-[selected=true]:[filter:opacity(1)]! data-[selected=false]:[filter:opacity(.3)]!');
+        });
+      });
       let current = 0;
       const select = (index: number) => {
         current = (index + panels.length) % panels.length;
-        panels.forEach((panel, i) => openPanel(panel, i === current));
+        panels.forEach((panel, i) => {
+          panel.dataset.serviceActive = String(i === current);
+          panel.setAttribute('aria-hidden', String(i !== current));
+          panel.inert = i !== current;
+        });
         tabs.forEach((tab, i) => {
           tab.setAttribute('aria-pressed', String(i === current));
-          tab.closest('li')?.classList.toggle('active-service', i === current);
-          addClasses(tab, 'cursor-pointer rounded-lg transition-colors aria-pressed:bg-[#035c56] aria-pressed:text-white');
+          const quadrant = tab.closest('li');
+          if (quadrant) {
+            quadrant.classList.toggle('active-service', i === current);
+            quadrant.dataset.quadrant = ['left', 'bottom', 'right', 'top'][(i - current + tabs.length) % tabs.length];
+          }
+          tab.querySelectorAll<HTMLElement>('img').forEach(icon => { icon.dataset.selected = String(i === current); });
         });
       };
       tabs.forEach((tab, i) => {
         tab.setAttribute('role', 'button'); tab.tabIndex = 0;
+        tab.setAttribute('aria-label', tab.textContent?.trim().replace(/\s+/g, ' ') || `Select feature ${i + 1}`);
+        on(tab, 'keydown', event => {
+          if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') {
+            event.preventDefault();
+            select(current + (event.key === 'ArrowRight' ? 1 : -1));
+            tabs[current].focus({ preventScroll: true });
+          }
+        });
         on(tab, 'click', () => select(i));
       });
       section?.querySelectorAll<HTMLElement>('.prev-nav, .next-nav').forEach(arrow => {
